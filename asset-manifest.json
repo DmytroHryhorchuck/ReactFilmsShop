@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactwarriors-workshop-master/static/css/main.5d937b94.chunk.css",
+    "main.js": "/reactwarriors-workshop-master/static/js/main.a4979bf2.chunk.js",
+    "main.js.map": "/reactwarriors-workshop-master/static/js/main.a4979bf2.chunk.js.map",
+    "runtime-main.js": "/reactwarriors-workshop-master/static/js/runtime-main.6ed04558.js",
+    "runtime-main.js.map": "/reactwarriors-workshop-master/static/js/runtime-main.6ed04558.js.map",
+    "static/css/2.69121389.chunk.css": "/reactwarriors-workshop-master/static/css/2.69121389.chunk.css",
+    "static/js/2.19e12099.chunk.js": "/reactwarriors-workshop-master/static/js/2.19e12099.chunk.js",
+    "static/js/2.19e12099.chunk.js.map": "/reactwarriors-workshop-master/static/js/2.19e12099.chunk.js.map",
+    "index.html": "/reactwarriors-workshop-master/index.html",
+    "precache-manifest.933ed962c72e4ac447bdce7266a58fe8.js": "/reactwarriors-workshop-master/precache-manifest.933ed962c72e4ac447bdce7266a58fe8.js",
+    "service-worker.js": "/reactwarriors-workshop-master/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/reactwarriors-workshop-master/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5d937b94.chunk.css.map": "/reactwarriors-workshop-master/static/css/main.5d937b94.chunk.css.map",
+    "static/js/2.19e12099.chunk.js.LICENSE.txt": "/reactwarriors-workshop-master/static/js/2.19e12099.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ed04558.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.19e12099.chunk.js",
+    "static/css/main.5d937b94.chunk.css",
+    "static/js/main.a4979bf2.chunk.js"
+  ]
+}
